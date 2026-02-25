@@ -1,0 +1,2 @@
+From almalinux:9
+CMD ["nginx", "-g", "daemonoff;"]
