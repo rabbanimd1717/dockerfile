@@ -1,2 +1,2 @@
 From almalinux:9
-CMD ["nginx", "-g", "daemonoff;"]
+CMD ["nginx", "-g", "daemon off;"]
